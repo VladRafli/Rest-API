@@ -1,0 +1,6 @@
+# Exception for note.txt and env file
+note.txt
+.env
+
+# Exception for Folder node_modules
+/node_modules
